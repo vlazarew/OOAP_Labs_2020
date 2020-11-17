@@ -1,7 +1,5 @@
 ---default-----
-Class
-Package
-UseCase
+InteractionLifeLine
+InteractionActor
 ---prefer-----
 ---recent-----
-Collaboration2

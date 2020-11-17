@@ -1,7 +1,7 @@
 ---default-----
-Class
-Package
-UseCase
+Attribute
+Operation
+Reception
+Port
 ---prefer-----
 ---recent-----
-Collaboration2
