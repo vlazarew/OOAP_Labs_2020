@@ -25,7 +25,7 @@
 		</Repository>
 	</Repositories>
 	<Projects>
-		<Project checkedOut="true" dateTime="1605612051220" filePath="projects/Lazarev528var4/Lazarev528var4.vpp" lastLocalStatus="2" lastLocalStatusProjectModifiedDate="1605524910795" lastServerRevision="1" name="Lazarev528var4" origVppMd5="35f84e7b238c9012d6e131f4b2d5673a" revision="4" workingCopyName="Lazarev528var4">
+		<Project checkedOut="true" dateTime="1605617583631" filePath="projects/Lazarev528var4/Lazarev528var4.vpp" lastLocalStatus="2" lastLocalStatusProjectModifiedDate="1605524910795" lastServerRevision="1" name="Lazarev528var4" origVppMd5="b57b7f37e5fd185ecc3ffe41d70fafb3" revision="5" workingCopyName="Lazarev528var4">
 			<Repository encrypted_password="3why3w1IRmbF4FsH+VqxGA==" ldapSAMAccountName="" paletteTooltipLastModified="0" path="/vpteamwork/VPTeamworkServer" portNumber="" protocol="vponline://" proxyHost="" proxyPort="0" serverHost="sifprvre" twFileFeatureSupport="true" useProxy="false" userDisplayName="Lazarewvladimir18" userName="lazarewvladimir18@gmail.com">
 				<ClientPermission allow="false" name="allowAccessLockedContent"/>
 				<ClientPermission allow="true" name="manageReferenceProject"/>
@@ -68,7 +68,7 @@
 				<ClientPermission allow="false" name="deleteBranch"/>
 				<Checksum value="80bfe1f391bc9a5b5e09073851cd54e4"/>
 			</ProjectUserPermission>
-			<ProjectInfo projectDescription="&lt;html&gt;&#13;&#10;  &lt;head&gt;&#13;&#10;    &lt;style type=&quot;text/css&quot;&gt;&#10;      &lt;!--&#10;        body { color: #000000; font-family: Courier New; font-size: 11px }&#10;      --&gt;&#10;    &lt;/style&gt;&#13;&#10;    &#13;&#10;  &lt;/head&gt;&#13;&#10;  &lt;body&gt;&#13;&#10;    &lt;p&gt;&#13;&#10;      &amp;#1042;&amp;#1099;&amp;#1087;&amp;#1086;&amp;#1083;&amp;#1085;&amp;#1077;&amp;#1085;&amp;#1080;&amp;#1077; &amp;#1091;&amp;#1087;&amp;#1088;&amp;#1072;&amp;#1078;&amp;#1085;&amp;#1077;&amp;#1085;&amp;#1080;&amp;#1081; &amp;#1087;&amp;#1086; &amp;#1054;&amp;#1054;&amp;#1040;&amp;#1055;. &amp;#1042;&amp;#1052;&amp;#1050; &amp;#1052;&amp;#1043;&amp;#1059;&#13;&#10;    &lt;/p&gt;&#13;&#10;    &lt;p&gt;&#13;&#10;      vvmalyshko@gmail.com&#13;&#10;    &lt;/p&gt;&#13;&#10;  &lt;/body&gt;&#13;&#10;&lt;/html&gt;&#13;&#10;" projectDisplayName="Lazarev528var4" projectId="IyvOC66D.AACARyO" projectIntId="2" projectName="Lazarev528var4" version="4"/>
+			<ProjectInfo projectDescription="&lt;html&gt;&#13;&#10;  &lt;head&gt;&#13;&#10;    &lt;style type=&quot;text/css&quot;&gt;&#10;      &lt;!--&#10;        body { color: #000000; font-family: Courier New; font-size: 11px }&#10;      --&gt;&#10;    &lt;/style&gt;&#13;&#10;    &#13;&#10;  &lt;/head&gt;&#13;&#10;  &lt;body&gt;&#13;&#10;    &lt;p&gt;&#13;&#10;      &amp;#1042;&amp;#1099;&amp;#1087;&amp;#1086;&amp;#1083;&amp;#1085;&amp;#1077;&amp;#1085;&amp;#1080;&amp;#1077; &amp;#1091;&amp;#1087;&amp;#1088;&amp;#1072;&amp;#1078;&amp;#1085;&amp;#1077;&amp;#1085;&amp;#1080;&amp;#1081; &amp;#1087;&amp;#1086; &amp;#1054;&amp;#1054;&amp;#1040;&amp;#1055;. &amp;#1042;&amp;#1052;&amp;#1050; &amp;#1052;&amp;#1043;&amp;#1059;&#13;&#10;    &lt;/p&gt;&#13;&#10;    &lt;p&gt;&#13;&#10;      vvmalyshko@gmail.com&#13;&#10;    &lt;/p&gt;&#13;&#10;  &lt;/body&gt;&#13;&#10;&lt;/html&gt;&#13;&#10;" projectDisplayName="Lazarev528var4" projectId="IyvOC66D.AACARyO" projectIntId="2" projectName="Lazarev528var4" version="5"/>
 		</Project>
 	</Projects>
 </VptsInfio>
