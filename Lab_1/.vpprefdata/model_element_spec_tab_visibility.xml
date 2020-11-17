@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ModelElementSpecTabVisibility version="20191031">
+	<Type id="*">
+		<Tab id="Constraints"/>
+		<Tab id="Diagrams"/>
+		<Tab id="References"/>
+		<Tab id="Tagged Values"/>
+	</Type>
 	<Type id="Activity">
 		<Tab id="Parameters"/>
+		<Tab id="Variables"/>
 	</Type>
 	<Type id="ActivityParameterNode">
 		<Tab id="InStates"/>

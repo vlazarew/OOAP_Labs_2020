@@ -25,7 +25,7 @@
 		</Repository>
 	</Repositories>
 	<Projects>
-		<Project checkedOut="true" dateTime="1605617583631" filePath="projects/Lazarev528var4/Lazarev528var4.vpp" lastLocalStatus="2" lastLocalStatusProjectModifiedDate="1605524910795" lastServerRevision="1" name="Lazarev528var4" origVppMd5="b57b7f37e5fd185ecc3ffe41d70fafb3" revision="5" workingCopyName="Lazarev528var4">
+		<Project checkedOut="true" dateTime="1605617583631" filePath="projects/Lazarev528var4/Lazarev528var4.vpp" lastLocalStatus="2" lastLocalStatusProjectModifiedDate="1605524910795" lastServerRevision="5" name="Lazarev528var4" origVppMd5="b57b7f37e5fd185ecc3ffe41d70fafb3" revision="5" workingCopyName="Lazarev528var4">
 			<Repository encrypted_password="3why3w1IRmbF4FsH+VqxGA==" ldapSAMAccountName="" paletteTooltipLastModified="0" path="/vpteamwork/VPTeamworkServer" portNumber="" protocol="vponline://" proxyHost="" proxyPort="0" serverHost="sifprvre" twFileFeatureSupport="true" useProxy="false" userDisplayName="Lazarewvladimir18" userName="lazarewvladimir18@gmail.com">
 				<ClientPermission allow="false" name="allowAccessLockedContent"/>
 				<ClientPermission allow="true" name="manageReferenceProject"/>
