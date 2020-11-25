@@ -1,0 +1,10 @@
+.vpprefdata
+doc_composter
+icons
+teamwork_client
+src
+tmp
+VPProjects
+.lock
+*.bak*
+*.vbak*
