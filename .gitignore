@@ -1,5 +1,5 @@
 .vpprefdata
-doc_composter
+doc_composer
 icons
 teamwork_client
 src
@@ -8,3 +8,4 @@ VPProjects
 .lock
 *.bak*
 *.vbak*
+teamworkUser.xml
